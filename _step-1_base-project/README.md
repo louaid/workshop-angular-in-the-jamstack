@@ -149,3 +149,5 @@ You made it! Here are some great resources to build your brain on this topic ðŸ’
 
 - [What more can a CDN do on the JAMstack?](https://dev.to/shortdiv/what-more-can-a-cdn-do-on-the-jamstack-5cgj)
 - [Netlify Edge: CDN](https://www.netlify.com/products/edge/?utm_source=repo&utm_medium=angular-workshop_tzm&utm_campaign=devex)
+
+### final change
